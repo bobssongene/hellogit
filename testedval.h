@@ -47,7 +47,7 @@ void addVectVals()
 {
 
 test = true;
-auto x;
+int x;
 if (test){
 while (test){
 cout<< "enter n if you want to end this loop" <<endl;
