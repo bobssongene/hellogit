@@ -43,7 +43,9 @@ double subtraction(double a, double b)
 double val = a-b;
 return val;}
 
-
+double test()
+{
+return 56.00;}
 
 void addVectVals()
 {
