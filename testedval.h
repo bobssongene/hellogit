@@ -33,12 +33,12 @@ double getDval()
 {
 return dval;}
 
-double addition(auto a,auto b)
+double addition(double a,double b)
 {
 double val = (a+b);
 return val;
 }
-double subtraction(auto a, auto b)
+double subtraction(double a, double b)
 {
 double val = a-b;
 return val;}
