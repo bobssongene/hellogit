@@ -8,7 +8,8 @@ int val;
 double dval;
 bool test;
 
-public
+public:
+vector <int> array;
 TestedVals()
 {
 val = dval= 0;
@@ -41,13 +42,10 @@ double subtraction(auto a, auto b)
 return (a-b);}
 
 
-void mkvect()
-{
-vector <int> array;
-}
+
 void addVectVals()
 {
-mkvect();
+
 test = true;
 auto x;
 if (test){
