@@ -43,7 +43,7 @@ double subtraction(double a, double b)
 double val = a-b;
 return val;}
 
-double test()
+double testx()
 {
 return 56.00;}
 

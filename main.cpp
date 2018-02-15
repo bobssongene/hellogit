@@ -16,6 +16,6 @@ cout << obj.getVal() << " " << obj.getDval()<< endl;
 obj.addition(obj.getVal(), obj.getDval());
 obj.subtraction(obj.getVal(), obj.getDval());
 
-obj.test()
+obj.testx();
 return 0;
 }
