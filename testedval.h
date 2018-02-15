@@ -35,11 +35,13 @@ return dval;}
 
 double addition(auto a,auto b)
 {
-return (a+b);
+double val = (a+b);
+return val;
 }
 double subtraction(auto a, auto b)
 {
-return (a-b);}
+double val = a-b;
+return val;}
 
 
 
