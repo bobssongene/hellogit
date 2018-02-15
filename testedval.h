@@ -65,7 +65,7 @@ test = false;
 
 void dispVect()
 {
-for(int i, array)
+for(int i; i < array.size(); i++)
 {
 cout << array[i] << endl;
 }
