@@ -8,7 +8,7 @@ TestedVals obj;
 
 obj.set(8);
 obj.set(16.54);
-
+cout << "test"<<endl;
 obj.addition(50,65);// checking the function to see if it works 
 obj.subtraction(8465,6560);
 cout << endl;
