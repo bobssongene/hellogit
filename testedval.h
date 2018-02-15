@@ -45,6 +45,7 @@ return val;}
 
 double testx()
 {
+cout << 56.00 <<endl;
 return 56.00;}
 
 void addVectVals()
