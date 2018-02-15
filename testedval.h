@@ -1,13 +1,14 @@
 #include <iostream>
 #include <vector>
 
+using namespace std;
 class TestedVals
 {
 int val;
 double dval;
 bool test;
 
-public:
+public
 TestedVals()
 {
 val = dval= 0;
@@ -37,7 +38,7 @@ return (a+b);
 }
 double subtraction(auto a, auto b)
 {
-return (a-b)}
+return (a-b);}
 
 
 void mkvect()
@@ -72,4 +73,4 @@ cout << array[i] << endl;
 }
 }
 
-}
+};
