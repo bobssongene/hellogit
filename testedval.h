@@ -46,7 +46,7 @@ return valu;}
 double testx()
 {
 cout << 56.00 <<endl;
-double valu= 5.6
+double valu= 5.6;
 return valu;}
 
 void addVectVals()
