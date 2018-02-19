@@ -5,6 +5,7 @@ using namespace std;
 int main()
 {
 TestedVals obj;
+vector <int> vectArray;
 
 obj.set(8);
 obj.set(16.54);
@@ -17,5 +18,11 @@ obj.addition(obj.getVal(), obj.getDval());
 obj.subtraction(obj.getVal(), obj.getDval());
 
 obj.testx();
+
+
+system.clear();
+
+addVectVals(vectArray);
+dispVect(vectArray);
 return 0;
 }

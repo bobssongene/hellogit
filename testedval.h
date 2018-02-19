@@ -9,7 +9,7 @@ double dval;
 bool test;
 
 public:
-vector <int> array;
+
 TestedVals()
 {
 val = dval= 0;
@@ -49,7 +49,7 @@ cout << 56.00 <<endl;
 double valu= 5.6;
 return valu;}
 
-void addVectVals()
+void addVectVals(<int> array)
 {
 
 test = true;
@@ -69,7 +69,7 @@ test = false;
 }
 
 
-void dispVect()
+void dispVect(<int> array)
 {
 for(int i; i < array.size(); i++)
 {
