@@ -49,7 +49,7 @@ cout << 56.00 <<endl;
 double valu= 5.6;
 return valu;}
 
-void addVectVals(<int> array)
+void addVectVals(vector<int>& array)
 {
 
 test = true;
@@ -69,7 +69,7 @@ test = false;
 }
 
 
-void dispVect(<int> array)
+void dispVect(vector<int>& array)
 {
 for(int i; i < array.size(); i++)
 {
