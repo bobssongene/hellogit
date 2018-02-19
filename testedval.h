@@ -35,13 +35,13 @@ return dval;}
 
 double addition(double a,double b)
 {
-double val = (a+b);
-return val;
+double valu = (a+b);
+return valu;
 }
 double subtraction(double a, double b)
 {
-double val = a-b;
-return val;}
+double valu = a-b;
+return valu;}
 
 double testx()
 {
