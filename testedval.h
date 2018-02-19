@@ -43,11 +43,7 @@ double subtraction(double a, double b)
 double valu = a-b;
 return valu;}
 
-double testx()
-{
-cout << 56.00 <<endl;
-double valu= 5.6;
-return valu;}
+
 
 void addVectVals(vector<int>& array)
 {
