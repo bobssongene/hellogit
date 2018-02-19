@@ -20,9 +20,9 @@ obj.subtraction(obj.getVal(), obj.getDval());
 obj.testx();
 
 
-system.clear();
 
-addVectVals(vectArray);
-dispVect(vectArray);
+
+obj.addVectVals(vectArray);
+obj.dispVect(vectArray);
 return 0;
 }
