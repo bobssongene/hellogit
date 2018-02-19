@@ -24,6 +24,6 @@ obj.testx();
 
 obj.addVectVals(vectArray);
 obj.dispVect(vectArray);
-cout << vectArray[0];
+
 return 0;
 }

@@ -71,6 +71,7 @@ test = false;
 
 void dispVect(vector<int>& array)
 {
+cout << endl;
 for(int i = 0; i < array.size(); i++)
 {
 cout << array[i] << endl;
