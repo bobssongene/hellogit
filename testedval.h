@@ -56,10 +56,10 @@ test = true;
 int x;
 if (test){
 while (test){
-cout<< "enter n if you want to end this loop" <<endl;
+cout<< "enter -1 if you want to end this loop" <<endl;
 cout << "val:" << endl;
 cin >> x;
-if(x != 'n'){
+if(x != -1){
 array.push_back(x);
 }
 else 
